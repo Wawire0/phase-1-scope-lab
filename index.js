@@ -13,8 +13,8 @@ function overwriteBestCustomer() {
 const leastFavoriteCustomer ='someone'
 
 function changeLeastFavoriteCustomer() {
-    // Attempting to change the constant will result in an error
-    leastFavoriteCustomer = 'new person'; // This will throw an error
+    
+    leastFavoriteCustomer = 'new person'; 
   }
   
   
